@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+ <html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Answer</title>
+	</head>
+ 
+	<body>
+		<h1>!!CONGRATULATIONS!!</h1>
+		<h1>Your answer is absolutely right.</h1>
+		<img src="srk.jpg"></img>
+		<h1>Shahrukh Khan(SRK)</h1>
+		<img src="GuessAnswer.jpg" width="500px" height="500px"></img>
+	</body>
+ </html>

@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+ <html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Guess the Image</title>
+	</head>
+ 
+	<body>
+		<center>
+		<h1>Who is the Shahukh Khan(SRK):</h1>
+		<img src="guess.jpg" width="500px" height="500px" usemap="#guess"></img>
+		<map name="guess">
+			<area shape="rect" coords="0,0,250,250" href="Aamir.shtml"></area>
+			<area shape="rect" coords="251,0,500,250" href="Srk.shtml"></area>
+			<area shape="rect" coords="0,251,250,500" href="Kholi.shtml"></area>
+			<area shape="rect" coords="251,251,500,500" href="Babar.shtml"></area>
+		</map>
+		</center>
+		
+	</body>
+ </html>
